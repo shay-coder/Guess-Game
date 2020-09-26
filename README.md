@@ -1,0 +1,2 @@
+# Guess-Game
+Many programming languages allow you to generate a random number between 0 and a limiting value named LIMIT by using a statement similar to int number = rand() % LIMIT; Create the logic for a guessing game in which the application generates a random number and the player tries to guess it. Display a message indicating whether the player’s guess was correct, too high, or too low. Allow user to continue to guess until the correct answer is entered.
